@@ -1,3 +1,4 @@
+/// <reference path="globals/axios/index.d.ts" />
 /// <reference path="globals/babel-core/index.d.ts" />
 /// <reference path="globals/chai-jquery/index.d.ts" />
 /// <reference path="globals/chai/index.d.ts" />
